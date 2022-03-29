@@ -1,10 +1,4 @@
 .dostavka{
-    position: absolute;
-    left: 10.26%;
-    right: 85.44%;
-    top: 4.2%;
-    bottom: 89.08%;
-
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 300;
@@ -15,12 +9,6 @@
 }
 
 .oplata{
-    position: absolute;
-    left: 15.95%;
-    right: 80.65%;
-    top: 4.2%;
-    bottom: 89.08%;
-
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 300;
@@ -31,12 +19,6 @@
 }
 
 .optoviky{
-    position: absolute;
-    left: 20.74%;
-    right: 73.99%;
-    top: 4.2%;
-    bottom: 89.08%;
-
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 300;
@@ -47,11 +29,6 @@
 }
 
 .o_nas{
-    position: absolute;
-    left: 27.39%;
-    right: 69.97%;
-    top: 4.2%;
-    bottom: 89.08%;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -63,12 +40,6 @@
 }
 
 .blog{
-    position: absolute;
-    left: 31.41%;
-    right: 66.37%;
-    top: 4.2%;
-    bottom: 89.08%;
-
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 300;
@@ -81,12 +52,6 @@
 }
 
 .kor_client{
-    position: absolute;
-    left: 35.02%;
-    right: 52.57%;
-    top: 4.2%;
-    bottom: 89.08%;
-
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 300;
@@ -97,12 +62,6 @@
 }
 
 .otziv{
-    position: absolute;
-    left: 48.82%;
-    right: 43%;
-    top: 4.2%;
-    bottom: 89.08%;
-
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 300;
@@ -113,12 +72,6 @@
 }
 
 .contact{
-    position: absolute;
-    left: 58.39%;
-    right: 37.24%;
-    top: 4.2%;
-    bottom: 89.08%;
-
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 300;
@@ -129,12 +82,6 @@
 }
 
 .izbran{
-    position: absolute;
-    left: 75.45%;
-    right: 19.21%;
-    top: 4.2%;
-    bottom: 89.08%;
-
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 300;
@@ -145,12 +92,6 @@
     }
 
 .name{
-    position: absolute;
-    left: 83.63%;
-    right: 13.45%;
-    top: 4.2%;
-    bottom: 89.08%;
-
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 300;
@@ -162,12 +103,6 @@
     color: #000000;
 }
 .phone{
-    position: absolute;
-    left: 71.43%;
-    right: 20.39%;
-    top: 25.21%;
-    bottom: 68.07%;
-
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -181,11 +116,6 @@
 }
 
 .product{
-    position: absolute;
-    left: 83.01%;
-    right: 12.9%;
-    top: 25.21%;
-    bottom: 68.07%;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -197,12 +127,6 @@
 }
 
 .search{
-    position: absolute;
-    left: 71.43%;
-    right: 10.26%;
-    top: 40.34%;
-    bottom: 47.9%;
-
     background: #FBFBFB;
     border: 0.3px solid rgba(0, 0, 0, 0.2);
     box-sizing: border-box;
@@ -210,47 +134,27 @@
 }
 
 .rectangle_1{
-    position: absolute;
-    left: 0%;
-    right: 0%;
-    top: 0%;
-    bottom: 85.29%;
-
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
     background: #FFFFFF;
     border: 0.3px solid rgba(0, 0, 0, 0.2);
     box-sizing: border-box;
 }
 
 .rectangle_2{
-    position: absolute;
-    left: 0.07%;
-    right: 0%;
-    top: 14.29%;
-    bottom: 37.39%;
-
     background: #FBE7ED;
 }
 
 .rectangle_3{
-    position: absolute;
-    left: 0%;
-    right: 0%;
-    top: 62.18%;
-    bottom: 0%;
-
     background: #FFFFFF;
     border: 0.3px solid rgba(0, 0, 0, 0.2);
     box-sizing: border-box;
     }
 
-.povod{
-   /* Повод */
-    position: static;
-    width: 58px;
-    height: 21px;
-    left: 0px;
-    top: 0px;
 
+.povod{
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -267,11 +171,6 @@
 }
 
 .Buket{
-    position: static;
-    width: 63px;
-    height: 21px;
-    left: 123px;
-    top: 0px;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -289,11 +188,6 @@
 }
 
 .svety{
-    position: static;
-    width: 56px;
-    height: 21px;
-    left: 251px;
-    top: 0px;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -313,12 +207,6 @@
 }
 
 .rosy{
-    position: static;
-    width: 46px;
-    height: 21px;
-    left: 372px;
-    top: 0px;
-
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -335,12 +223,6 @@
 }
 
 .tyulpany{
-    position: static;
-    width: 91px;
-    height: 21px;
-    left: 483px;
-    top: 0px;
-
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -362,11 +244,6 @@
 }
 
 .b_nevesty{
-    position: static;
-    width: 91px;
-    height: 21px;
-    left: 483px;
-    top: 0px;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -389,12 +266,6 @@
 }
 
 .sale{
-    position: static;
-    width: 58px;
-    height: 21px;
-    left: 832px;
-    top: 0px;
-
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -415,11 +286,6 @@
     margin: 0px 65px;
 }
 .gift{
-    position: static;
-    width: 154px;
-    height: 21px;
-    left: 955px;
-    top: 0px;
 
     font-family: 'Montserrat';
     font-style: normal;
