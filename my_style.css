@@ -13,6 +13,10 @@
     margin-bottom: 1%;
 }
 
+.logo{
+   
+}
+
 .rectangle_1{
     width: 100%;
     display: flex;
@@ -40,3 +44,4 @@
     border: 0.3px solid rgba(0, 0, 0, 0.2);
     box-sizing: border-box;
     }
+
