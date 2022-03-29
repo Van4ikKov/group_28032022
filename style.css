@@ -1,0 +1,16 @@
+/*Файл стилей секции селектов (фильтра и сортировки)*/
+body{
+    width: 100%;
+}
+.selects_header{
+    font-family: 'Cormorant Infant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
+}
+.selects_selects{
+display: flex;
+justify-content: space-between;
+}
