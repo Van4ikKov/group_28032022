@@ -3,13 +3,14 @@ body{
     width: 100%;
 }
 .selects_header{
-    font-family: 'Cormorant Infant';
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
     line-height: 48px;
     color: #000000;
     margin-left: 147px;
+    font-family: 'Cormorant Infant', serif;
+
 }
 .select{
     background: #FFFFFF;
