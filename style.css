@@ -1,0 +1,99 @@
+main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+
+}
+
+.item {
+    width: 264px;
+    height: 418px;
+    background-color: #fff;
+    border: 0.3px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    margin: 30px 30px 0 0;
+}
+
+.item:last-child {
+    margin-right: 0;
+}
+
+.item-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 1px;
+    width: 262px;
+    height: 262px;
+    background-color: #f1f1f1;
+    font-size: 20px;
+
+}
+
+.item-title {
+    margin: 20px 20px 0 20px;
+    color: rgba(0, 0, 0, 0.7);
+    font-size: 17px;
+}
+
+.item-price {
+    display: flex;
+    /* flex-direction: ; */
+}
+
+.item-price__new {
+    margin: 15px 0 0 20px;
+    color: #000000;
+    font-size: 17px;
+}
+
+.item-price__new::after {
+    content: ' ₽';
+    font-size: 17px;
+}
+
+.item-price__old {
+    margin: 19px 0 0 10px;
+    color: rgba(0, 0, 0, 0.5);
+    text-decoration: line-through;
+    font-size: 13px;
+
+}
+
+.item-price__old::after {
+    content: ' ₽';
+    font-size: 13px;
+}
+
+.item-active {
+    display: flex;
+    justify-content: space-between;
+    margin: 11px 22.71px 0 20px;
+}
+
+.item-active__buy {
+    border-radius: 5px;
+    padding: 5px 67px;
+    width: 182px;
+    height: 26px;
+    border: 0.5px solid rgba(0, 0, 0, 0.2);
+    background: #fff;
+    font-size: 13px;
+}
+
+.item-active__like {
+    margin: 2px 1px;
+    width: 20.58px;
+    height: 19.5px;
+}
+
+
+.item-prompt {
+    margin: 12px 0 14px 20px;
+    color: #F76A94;
+    font-size: 13px;
+}
