@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .quote1{
  /* В жизни масса поводов для того, чтобы делать друг другу приятные сюрпризы. Праздники, годовщины важных приятных событий, и другие особые даты – отличный случай купить букет цветов по поводу для близкого человека. Но часто для того, чтобы выразить любовь, симпатию, уважение или просто поднять настроение и вовсе не нужно особого повода, его можно придумать самостоятельно. Улыбка любимого человека – уже хороший повод подарить цветы! */
 
@@ -170,3 +171,122 @@ color: rgba(0, 0, 0, 0.7);
 }
 
 
+=======
+
+.site-footer{
+    background-color: rgba(254, 53, 113, 0.2);
+    position: absolute;
+    left: 0;
+    width: 100%;
+
+}
+.main-footer-block{
+    padding-left: 147px;
+    padding-top: 60px;
+    
+}
+.two-information-blocks{
+    display: inline-block;
+    margin-right: 121px;
+}
+
+.footer-block{
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 5px;
+    height: 290px;
+    vertical-align: top;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-right: 30px;
+    font-size: 15px;
+}
+
+.bottom-text{
+    padding-left: 147px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.header{
+    font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-weight: 400;
+}
+
+.header-bottom-text{
+    font-size: 20px;
+    padding-bottom: 10px;
+    font-weight: 400;
+}
+.rights-text{
+    font-size: 13px;
+}
+
+.social-media-images{
+    padding-top: 30px;
+}
+
+.social-media-image{
+    display: inline-block;
+    padding-right: 20px;
+}
+
+hr{
+    border: 1px solid rgba(254, 53, 113, 0.7);
+    margin-left: 147px;
+    margin-right: 147px;
+    margin-top: 60px;
+}
+
+p{
+    line-height: 6px; 
+    font-weight: 300;
+}
+
+body {
+    font-family: 'Montserrat';
+}
+
+/*Файл стилей секции селектов (фильтра и сортировки)*/
+body {
+    width: 100%;
+}
+
+.selects_header {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
+    padding-left: 147px;
+    font-family: 'Cormorant Infant';
+
+}
+
+.select {
+    background: #FFFFFF;
+    border: 0.5px solid rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 264px;
+    height: 40px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    padding-left: 20px;
+    color: #000000;
+}
+
+.selects_selects {
+
+    display: flex;
+    justify-content: space-between;
+    margin-left: 147px;
+    margin-right: 147px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 60px;
+}
+
+>>>>>>> 466cf99b8fd0dfb0af4a2ad993970b22398d4b2f
