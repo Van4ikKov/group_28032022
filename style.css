@@ -10,7 +10,7 @@ body {
     line-height: 48px;
     color: #000000;
     padding-left: 147px;
-    font-family: 'Cormorant Infant', serif;
+    font-family: 'Cormorant Infant';
 
 }
 
@@ -35,4 +35,5 @@ body {
     margin-left: 147px;
     margin-right: 147px;
     font-family: 'Montserrat', sans-serif;
+    margin-top: 60px;
 }
