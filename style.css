@@ -1,0 +1,39 @@
+/*Файл стилей секции селектов (фильтра и сортировки)*/
+body {
+    width: 100%;
+}
+
+.selects_header {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
+    padding-left: 147px;
+    font-family: 'Cormorant Infant';
+
+}
+
+.select {
+    background: #FFFFFF;
+    border: 0.5px solid rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 264px;
+    height: 40px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    padding-left: 20px;
+    color: #000000;
+}
+
+.selects_selects {
+
+    display: flex;
+    justify-content: space-between;
+    margin-left: 147px;
+    margin-right: 147px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 60px;
+}
