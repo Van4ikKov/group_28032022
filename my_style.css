@@ -1,33 +1,13 @@
 .phone{
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 13px;
-    line-height: 16px;
-    /* identical to box height */
-
-    text-align: center;
-
-    color: #000000;
+    
 }
 
 .basket{
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 13px;
-    line-height: 16px;
-    /* identical to box height */
 
-
-    color: #000000;
 }
 
 .search{
-    background: #FBFBFB;
-    border: 0.3px solid rgba(0, 0, 0, 0.2);
-    box-sizing: border-box;
-    border-radius: 5px;
+
 }
 
 .rectangle_1{
@@ -42,7 +22,7 @@
 
 .rectangle_2{
     width: 100%;
-    display: flex;
+    display: block;
     justify-content: space-around;
     align-content: center;
     background: #FBE7ED;
